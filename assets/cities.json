@@ -1,0 +1,72 @@
+[
+  {
+    "id": 500095,
+    "name": "Рязань",
+    "state": "",
+    "country": "RU",
+    "coordinates": {
+      "lon": 36.669724,
+      "lat": 55.674442
+    }
+  },
+  {
+    "id": 524894,
+    "name": "Москва",
+    "state": "",
+    "country": "RU",
+    "coordinates": {
+      "lon": 37.606667,
+      "lat": 55.761665
+    }
+  },
+  {
+    "id": 499099,
+    "name": "Самара",
+    "state": "",
+    "country": "RU",
+    "coordinates": {
+      "lon": 50.150002,
+      "lat": 53.200001
+    }
+  },
+  {
+    "id": 480562,
+    "name": "Тула",
+    "state": "",
+    "country": "RU",
+    "coordinates": {
+      "lon": 37.611111,
+      "lat": 54.204441
+    }
+  },
+  {
+    "id": 2643743,
+    "name": "Лондон",
+    "state": "",
+    "country": "GB",
+    "coordinates": {
+      "lon": -0.12574,
+      "lat": 51.50853
+    }
+  },
+  {
+    "id": 1726701,
+    "name": "Барселона",
+    "state": "",
+    "country": "PH",
+    "coordinates": {
+      "lon": 123.0485,
+      "lat": 13.7715
+    }
+  },
+  {
+    "id": 658225,
+    "name": "Хельсенки",
+    "state": "",
+    "country": "FI",
+    "coordinates": {
+      "lon": 24.93545,
+      "lat": 60.16952
+    }
+  }
+]

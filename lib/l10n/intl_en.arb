@@ -1,0 +1,10 @@
+{
+    "temperature": "Температура",
+    "feels_like": "Ощущается как",
+    "humidity": "Влажность",
+    "wind_speed": "Скрость ветра",
+    "cels": "℃",
+    "percent": "%",
+    "meter_in_sec": "м/с",
+    "weather": "Погода"
+}
